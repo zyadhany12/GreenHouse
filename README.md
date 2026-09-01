@@ -41,7 +41,7 @@ The matrix keypad is designed to span multiple ports using array-based pin mappi
 
 ---
 **Author:** 
-Zeyad Hany 
+Zeyad Hany,
 Computer Engineering, The British University in Egypt (BUE)
 
 **Supervised By:** 
