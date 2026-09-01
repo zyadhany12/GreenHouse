@@ -36,10 +36,13 @@ The matrix keypad is designed to span multiple ports using array-based pin mappi
 
 ## Development Environment
 *   **Toolchain:** AVR-GCC Toolchain
-*   **Simulation:** Proteus ISIS
+*   **Simulation:** SimuIDE
 *   **Language:** C (Bare-metal)
 
 ---
 **Author:** 
 Zeyad Hany 
 Computer Engineering, The British University in Egypt (BUE)
+
+**Supervised By:** 
+Hisham Ahmed, National Telecommunication Institute (NTI) & Gestell
