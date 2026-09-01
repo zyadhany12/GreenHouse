@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   6532	    130	     17	   6679	   1a17	C:\Users\HP\Desktop\NTI Training\pls\release\Firmware.elf
